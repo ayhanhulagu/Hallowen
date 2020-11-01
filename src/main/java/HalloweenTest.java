@@ -3,5 +3,6 @@ public class HalloweenTest {
 
         System.out.println("Helloween Test");
         System.out.println("Hadfasd");
+        System.out.println("Burhan      Kuzu       ölmüş");
     }
 }
